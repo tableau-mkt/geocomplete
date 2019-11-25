@@ -1,0 +1,13 @@
+{
+  "name": "tableau-mkt/geocomplete",
+  "description": "Geocomplete jQuery library",
+  "type": "drupal-library",
+  "keywords": [],
+  "homepage": "https://github.com/tableau-mkt/geocomplete",
+  "license": "MIT",
+  "authors": [],
+  "require": {
+    "composer/installers": "~1.0",
+    "oomphinc/composer-installers-extender": "^1.1"
+  }
+}
